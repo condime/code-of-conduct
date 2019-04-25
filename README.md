@@ -63,11 +63,11 @@ Failing to follow the community guidelines as described in this document carries
 * Eric Butler - @codebutler
 * Erik Hellman - @hellman
 * Grantland Chew - @grantland
-* Haley Smith - @haley
 * Jake Ouellette - @jakeout
 * Maria Neumayer - @maria
 * Mike Evans - @michael.evans
 * Raveesh Bhalla - @raveesh
+* Sam Wolfand - @Sam
 * Ty Smith - @ty
 * Vince Mi - @vince
 * Zac Sweers - @z
