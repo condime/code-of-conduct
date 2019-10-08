@@ -56,17 +56,19 @@ Failing to follow the community guidelines as described in this document carries
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
+* Adrienne Park - @adrienne
 * Ben Lee - @bl
 * Chiu-Ki Chan - @chiuki
 * Corey Latislaw - @colabug
 * Danny Roa - @dannyroa
 * Eric Butler - @codebutler
 * Erik Hellman - @hellman
+* Garima Jain - @ragdroid
 * Grantland Chew - @grantland
 * Jake Ouellette - @jakeout
 * Maria Neumayer - @maria
 * Mike Evans - @michael.evans
-* Raveesh Bhalla - @raveesh
+* Mike Nakhimovich - @FriendlyMike 
 * Sam Wolfand - @Sam
 * Ty Smith - @ty
 * Vince Mi - @vince
