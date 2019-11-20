@@ -57,11 +57,9 @@ Failing to follow the community guidelines as described in this document carries
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
 * Adrienne Park - @adrienne
-* Ben Lee - @bl
 * Chiu-Ki Chan - @chiuki
 * Corey Latislaw - @colabug
 * Danny Roa - @dannyroa
-* Eric Butler - @codebutler
 * Erik Hellman - @hellman
 * Garima Jain - @ragdroid
 * Grantland Chew - @grantland
@@ -70,9 +68,6 @@ Failing to follow the community guidelines as described in this document carries
 * Mike Evans - @michael.evans
 * Mike Nakhimovich - @FriendlyMike 
 * Sam Wolfand - @Sam
-* Ty Smith - @ty
-* Vince Mi - @vince
-* Zac Sweers - @z
 * Zarah Dominguez - @zarah
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
