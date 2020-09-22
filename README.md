@@ -64,11 +64,10 @@ Failing to follow the community guidelines as described in this document carries
 * Garima Jain - @ragdroid
 * Grantland Chew - @grantland
 * Jake Ouellette - @jakeout
-* Maria Neumayer - @maria
 * Mike Evans - @michael.evans
 * Mike Nakhimovich - @FriendlyMike 
+* Olga Dominguez - @Olga
 * Sam Wolfand - @Sam
-* Zarah Dominguez - @zarah
 
 *The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
 
