@@ -74,7 +74,15 @@ Failing to follow the community guidelines as described in this document carries
 
 ## Member Nomination  
 
-To nominate someone to join the Android Study Group, log in the [ASG web page](https://asgweb.herokuapp.com/) with your Android Study Group slack account, go in the **Nominate** page, and fill in the form with your name, their name and info, and why you are nominating them. You'll need to have been a member of Android Study Group for 30 or more days to be able to nominate someone. 
+To invite a new member to ASG, use the built-in invite tool in the Slack menu. Enter email, full name and the necessary details in the Reason field. What we want to see is the following:
+
+- Years of Android experience
+- Workplace and how you know the person
+- What do they add to ASG?
+- GitHub and/or Twitter username
+- Relevant apps or open source contributions
+
+We highly discourage mass invites (don't invite all your coworkers at once) and invites missing information will also be denied. We might reach out for additional information or clarifications if needed. Since the Reason field doesn’t allow URLs and has a limited length (560 characters), send additional info in a DM to an admin and they will add it as a comment in the review channel.
 
 This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
 
