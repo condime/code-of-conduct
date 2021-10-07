@@ -1,10 +1,8 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
-
 ## Code of Conduct
 
-### The **Android Study Group Slack** should be a safe place for everybody regardless of
+### The **condi.me Slack Group** should be a safe place for everybody regardless of
 
-- gender, gender identity or gender expression 
+- gender, gender identity or gender expression
 - sexual orientation
 - disability
 - physical appearance (including but not limited to body size)
@@ -45,60 +43,49 @@
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 ### Privacy
-* All conversations are private unless otherwise specified. 
+* All conversations are private unless otherwise specified.
 * If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
 ### Best Practices
-* Stay on topic. The goal of the ASG Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #android-general
-* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
+Read the blog posts. Most channels have been subscribed to RSS feeds with related content. Feel free to post your own blogs and subscribe the channel to other feeds that you think might be relevent.
+
+Stay on topic. The goal of the community is to facilitate discussion of things relating to platform engineering.
+  This could be about
+    - software engineering (frontend, backend, platform, data etc)
+    - people management
+    - security
+    - networking
+    - training, mentoring and learning
+  or any thing else that may be important to people who write and run software.
+
+If you have a technical question, feel free to join or create a channel for that subject.
 
 **If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
 
-* Adrienne Park - @adrienne
-* Chiu-Ki Chan - @chiuki
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Erik Hellman - @hellman
-* Garima Jain - @ragdroid
-* Grantland Chew - @grantland
-* Jake Ouellette - @jakeout
-* Mike Evans - @michael.evans
-* Mike Nakhimovich - @FriendlyMike 
-* Olga Dominguez - @Olga
-* Sam Wolfand - @Sam
-
-*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
-
-## Member Nomination  
-
-To invite a new member to ASG, use the built-in invite tool in the Slack menu. Enter email, full name and the necessary details in the Reason field. What we want to see is the following:
-
-- Years of Android experience
-- Workplace and how you know the person
-- What do they add to ASG?
-- GitHub and/or Twitter username
-- Relevant apps or open source contributions
-
-We highly discourage mass invites (don't invite all your coworkers at once) and invites missing information will also be denied. We might reach out for additional information or clarifications if needed. Since the Reason field doesn’t allow URLs and has a limited length (560 characters), send additional info in a DM to an admin and they will add it as a comment in the review channel.
-
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
-
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
-
-Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.
+* Ben Cordero - @bencord0
 
 ## Slack Etiquette
 
 ### Slack Commands
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+Members of this Slack group have it open during the work day, or installed on their phones.
+Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+
+Conversely, feel free to mute or uninstall slack from your devices if that is healthy for you too.
+Don't expect that everyone is online when you are online, or to expect replies from others instantly.
+
+### Emoji
+
+All members can upload new emoji. If you have a dispute about an existing emoji, contact an admin with the name of the emoji, an outline of the issue and an acceptable remediation (e.g. removal of the emoji).
 
 For tips and tricks or questions about Slack usage, check out #meta.
 
 ### Q & A
 
-Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
+Value your fellow members' time, and be considerate when asking questions. Question are welcome, but may require some research and time to answer.
+Please Google for answers if you can, consult documentation if available, or ask someone (or the group in general) to pair with you to read source code.
 
-When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
+When answering questions, avoid condescending language or impatience. We are all trying our hardest!
+
+If you learn something new for you, share it with the rest of the group in one of the related channels or consider writing a blog post.
+Even if it might have seemd obvious to others, the fact that you learnt something is still worthy to celebrate.
