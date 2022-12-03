@@ -1,6 +1,12 @@
 ## Code of Conduct
 
-### The **condi.me Slack Group** should be a safe place for everybody regardless of
+### Scope
+
+The **condi.me** and **nfra.club** domains, and the services hosted on them are covered by this Code of Conduct.
+This includes the [condi.me](https://condi.slack.com) Slack Group and the [nfra.club](https://nfra.club) mastodon instance,
+as well as other services hosted on these domains.
+
+### These services should be a safe place for everybody regardless of
 
 - gender, gender identity or gender expression
 - sexual orientation
@@ -10,7 +16,7 @@
 - age
 - religion
 
-### As someone who is part of this Slack, you agree that:
+### As someone who is part of this Community, you agree that:
 
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
@@ -40,7 +46,7 @@
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the services. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 ### Privacy
 * All conversations are private unless otherwise specified.
@@ -58,15 +64,13 @@ Stay on topic. The goal of the community is to facilitate discussion of things r
     - training, mentoring and learning
   or any thing else that may be important to people who write and run software.
 
-If you have a technical question, feel free to join or create a channel for that subject.
+If you have a technical question, feel free to join or create a channel or hashtag for that subject.
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their typical handles:**
 
-* Ben Cordero - @bencord0
+* Ben Cordero - @bencord0 (slack) - @bencord0@nfra.club (mastodon) - bencord0@condi.me (email)
 
 ## Slack Etiquette
-
-### Slack Commands
 
 Members of this Slack group have it open during the work day, or installed on their phones.
 Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
@@ -74,11 +78,20 @@ Additionally, there are members in many different time zones. Please be cautious
 Conversely, feel free to mute or uninstall slack from your devices if that is healthy for you too.
 Don't expect that everyone is online when you are online, or to expect replies from others instantly.
 
+### Mastodon Etiquette
+
+Members of this mastodon instance have alt accounts here, and on other instances. Please respect their need to isolate accounts, and be mindful for which alt you use when addressing them.
+
+"Work Safe" content can generally be used without Content Warnings. However, if you have any doubts please use CWs liberally.
+Don't use CWs for clickbait, they need to be informative enough for other members to meaningfully opt-out of the subject.
+
 ### Emoji
 
-All members can upload new emoji. If you have a dispute about an existing emoji, contact an admin with the name of the emoji, an outline of the issue and an acceptable remediation (e.g. removal of the emoji).
+All members can upload new slack emoji. An admin can upload new mastodon emoji.
 
-For tips and tricks or questions about Slack usage, check out #meta.
+If you have a dispute about an existing emoji, contact an admin with the name of the emoji, an outline of the issue and an acceptable remediation (e.g. removal of the emoji).
+
+For tips and tricks or questions about Slack or Mastodon usage, check out #meta.
 
 ### Q & A
 
